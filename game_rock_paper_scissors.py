@@ -31,5 +31,6 @@ scissors = '''
 random_game = [rock, paper, scissors]
 
 random_game = random.choice(random_game)
-print (input("What did you choose? rock, paper, or scissors?" ))
+print (input("What do you choose? rock, paper, or scissors?" ))
 print (random_game)
+
