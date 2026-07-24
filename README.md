@@ -18,6 +18,7 @@ Each folder corresponds to a day (or project) from the course:
 ├── day-05-python-loops/
 ├── day-06-python-functions-and-karel/
 ├── day-07-hangman/
+├── day 08-function-parameters/
 ...
 ```
 
