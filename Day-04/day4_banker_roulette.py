@@ -2,5 +2,5 @@ import random
 
 friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
 
-random_friends = random.choice(friends)
-print(random_friends)
+chosen_friend = random.choice(friends)
+print(f"{chosen_friend} is going to buy the meal today!")
