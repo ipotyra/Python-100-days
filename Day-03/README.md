@@ -57,6 +57,7 @@ languages. Consistent indentation is required, or the code will raise an error.
 
 ## Exercises
 - BMI (Body Mass Index) calculator using if/elif/else
+- Rollercoaster ticket price calculator (age and height-based conditions)
 
 ## Resources
 - 
