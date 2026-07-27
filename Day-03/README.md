@@ -8,6 +8,7 @@
 
 ## Exercises
 - BMI (Body Mass Index) calculator using if/elif/else
+- Tickets Rollercoaster
 
 ## Resources
 - 
